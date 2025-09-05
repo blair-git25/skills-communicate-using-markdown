@@ -12,3 +12,8 @@
 ```
 $ sudo apt install
 ```
+
+### List
+- [ ] Item 1
+- [X] Item 2
+- [ ] Item 3
